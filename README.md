@@ -1,2 +1,0 @@
-# olaf
-Hello Moose
